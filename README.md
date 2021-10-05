@@ -1,4 +1,4 @@
-# digitalnakomora_hr_scraper
+# Digitalna komora: HGK Scraper
 Scrapes all entries from digitalnakomora.hr<br>
 <br>
 Requirements:<br>
